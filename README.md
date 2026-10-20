@@ -1,4 +1,4 @@
-# LiveCasino — 赌场视讯系统（Casino Live Video System）
+# LiveCasino — 赌场视讯系统全开源（Casino Live Video System）
 
 一套完整的**真人视讯（Live Casino）系统解决方案**，本项目**全开源**。
 

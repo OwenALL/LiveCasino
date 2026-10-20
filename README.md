@@ -1,4 +1,4 @@
-# LiveCasino — 赌场视讯系统全开源（Casino Live Video System）
+# LiveCasino — 赌场视讯系统（Casino Live Video System）
 
 一套完整的**真人视讯（Live Casino）系统解决方案**，本项目**全开源**。
 
@@ -48,9 +48,9 @@
 ## 二、前端演示
 
 > 截图中品牌 LOGO 已按合规要求打码处理。
+> **需要演示网址请 Telegram 联系**：https://t.me/cnwen123
 
-### 演示 1
-演示地址：https://bingnethp.pages.dev/ （可点击「游客试玩」直接进入大厅体验）
+### 演示 1（桌面端）
 
 | 登录页 | 游戏大厅 |
 |---|---|
@@ -72,8 +72,21 @@
 |---|---|
 | ![菜单](screenshots/demo1/09-user-menu.png) | ![规则](screenshots/demo1/10-game-rules.png) |
 
-### 演示 2
-演示地址：https://bingnetf.pages.dev/ （可点击「游客试玩」直接进入大厅体验）
+#### 演示 1 · 手机竖屏
+
+| 登录页 | 游戏大厅 |
+|---|---|
+| ![手机登录](screenshots/demo1/mobile/01-mobile-login.png) | ![手机大厅](screenshots/demo1/mobile/02-mobile-lobby.png) |
+
+| 游戏桌（投注界面） | 用户功能菜单 |
+|---|---|
+| ![手机游戏桌](screenshots/demo1/mobile/03-mobile-game-table.png) | ![手机菜单](screenshots/demo1/mobile/04-mobile-user-menu.png) |
+
+| 公告中心 | |
+|---|---|
+| ![手机公告](screenshots/demo1/mobile/05-mobile-announcement.png) | |
+
+### 演示 2（桌面端）
 
 | 登录页 | 游戏大厅 |
 |---|---|
@@ -90,6 +103,20 @@
 | 公告中心 | 充值提现 |
 |---|---|
 | ![公告](screenshots/demo2/07-announcement.png) | ![钱包](screenshots/demo2/08-wallet.png) |
+
+#### 演示 2 · 手机竖屏
+
+| 登录页 | 游戏大厅 |
+|---|---|
+| ![手机登录](screenshots/demo2/mobile/01-mobile-login.png) | ![手机大厅](screenshots/demo2/mobile/02-mobile-lobby.png) |
+
+| 游戏桌（投注界面） | 用户功能菜单 |
+|---|---|
+| ![手机游戏桌](screenshots/demo2/mobile/03-mobile-game-table.png) | ![手机菜单](screenshots/demo2/mobile/04-mobile-user-menu.png) |
+
+| 公告中心 | |
+|---|---|
+| ![手机公告](screenshots/demo2/mobile/05-mobile-announcement.png) | |
 
 ---
 
